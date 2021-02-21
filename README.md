@@ -3,6 +3,7 @@ Python script for storing humax modem event logs to csv file.
 Tested on HG100R-02JG.
 
 This script uses humax.py from https://github.com/radomirbosak/humax
+
 humax.py need to be stored in the same folder.
 
 # Usage
